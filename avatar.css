@@ -1,0 +1,74 @@
+.avatar {
+    /* this sets default styles for everything in the avatar group */
+    stroke-width: 5;
+    fill: white;
+    stroke: black;
+}
+
+.body {
+    /* Your code here! 
+	 * Examples of how to set colors:
+	fill: red;
+	fill: rgb(243, 191, 189);
+	fill: rgba(243, 191, 189, 0.5);
+    fill: hsl(180, 70%, 50%);
+    
+    * You can even change the color and style of the line! Examples:
+	stroke: #FFF000;
+    stroke-width: 1;
+	*/
+    fill: #FFFFFF;
+}
+
+.eye {
+}
+
+.arm {
+}
+
+.shoe {
+}
+
+.left {
+}
+
+.right {
+}
+
+#head {
+
+}
+
+#right-eye {
+}
+
+#left-eye {
+}
+
+#neck {
+}
+
+#shirt {
+}
+
+#cape {
+}
+
+#mouth {
+}
+
+#pants {
+}
+
+#left-arm {
+}
+
+#right-arm {
+}
+
+#left-shoe {
+}
+
+#right-shoe {
+}
+Raw
