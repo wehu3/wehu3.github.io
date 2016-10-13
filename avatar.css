@@ -24,9 +24,11 @@
 }
 
 .arm {
+    fill: tan
 }
 
 .shoe {
+    fill: black
 }
 
 .left {
@@ -36,28 +38,34 @@
 }
 
 #head {
-
+    fill: tan
 }
 
 #right-eye {
+    fill: black
 }
 
 #left-eye {
+    fill: black
 }
 
 #neck {
+    fill: tan
 }
 
 #shirt {
+    fill: blue
 }
 
 #cape {
+    fill: red
 }
 
 #mouth {
 }
 
 #pants {
+    fill: maroon
 }
 
 #left-arm {
