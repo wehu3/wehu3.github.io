@@ -5,6 +5,14 @@
     stroke: black;
 
 }
+@keyframes Superman {
+    from {fill: blue;}
+    24% {fill: purple;}
+    47% {fill: red;}
+    77% {fill: yellow;}
+    96% {fill: orange;}
+    to {fill: white;}
+}
 
 .body {
     stroke-width: 5
@@ -19,7 +27,9 @@
 }
 .shoe {
     fill: black;
-    stroke-width: 2
+    stroke-width: 2;
+    animation: Superman 5s linear infinite;
+
 }
 
 .left {
@@ -38,31 +48,33 @@
 
 #left-eye {
     fill: black
-}
-
-#neck {
+}#neck {
     fill: tan
 }
 
 #shirt {
-    fill: blue
+    fill: blue;
+    animation: Superman 8s linear infinite
 }
 
 #cape {
-    fill: red; 
+    fill: red;
+    animation: Superman 4s linear infinite
 }
 
 #mouth {
 }
 
 #pants {
-    fill: maroon
+    fill: maroon;
+    animation: Superman 6s linear infinite
 }
 
 #left-arm {
 }
 
-#right-arm {
+#right-arm 
+    
 }
 
 #left-shoe {
